@@ -1,0 +1,7 @@
+Transformer：
+·Multihead Attention how to work
+·transformer encoder how to work
+·Defining a Transformer layer class
+·how to use config to save the self-defined layers
+·comparing the diff between Layernormalization and Batchnormalization
+·config in the keras.Layers class
